@@ -4,6 +4,11 @@ TypeScript + Node.js + lambda project boilerplate.
 
 # Usage
 
+## Install a packages
+```bash
+npm install
+```
+
 ## Make a program
 You can write your code to `src/index.ts`.
 
